@@ -7,7 +7,7 @@ Honghyok Kim, Jong-Tae Lee, Kelvin C. Fong, Michelle L. Bell. (Revised)
 
 ///Files description (Simulation)
 
-test_data_public.csv: this is a test dataset for simulation. All numbers for death and environmental measurements were generated from random sampling based on the original data for public use. So, simulation results based on this dataset will not provide the same numbers in the main text.
+test_data_public.csv: this is a test dataset for simulation for public use. All numbers for death and environmental measurements were generated from random sampling based on the original data. So, simulation results based on this dataset will not provide the same numbers in the main text.
 
 S1. Predict.R: load test_data_public.csv and predict average PM10 time series and average mortality time series
 
