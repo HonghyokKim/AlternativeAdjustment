@@ -1,4 +1,4 @@
-# AlternativeAdjustment
+# Read Me
 This repository stores the R code for simulations presented in the article:
 
 Alternative adjustment for seasonality and long-term time-trend in time-series analysis for long-term environmental exposures and disease counts
