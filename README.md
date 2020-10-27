@@ -2,6 +2,7 @@
 This repository stores the R code for simulations and data analysis presented in the article:
 
 Alternative adjustment for seasonality and long-term time-trend in time-series analysis for long-term environmental exposures and disease counts
+
 Honghyok Kim, Jong-Tae Lee, Kelvin C. Fong, Michelle L. Bell. (Revised)
 
 
