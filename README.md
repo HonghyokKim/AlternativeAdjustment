@@ -4,7 +4,9 @@ This repository stores the R code for simulations presented in the article:
 Alternative adjustment for seasonality and long-term time-trend in time-series analysis for long-term environmental exposures and disease counts
 Honghyok Kim, Jong-Tae Lee, Kelvin C. Fong, Michelle L. Bell. (Revised)
 
-Files description
+
+///Files description///
+
 S1. Predict.R: load real dataset. predict average PM10 time series and average mortality time series
 
 S2. Set PM10 effects.R: specify hypothetical lag-structures of PM10 effects.
