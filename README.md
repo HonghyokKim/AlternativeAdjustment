@@ -17,15 +17,15 @@ S3. Simulation Run(DLM0730).R: simulate distributed lag models (lag0–730) to e
 
 S4. Simulation Run(MA01).R: simulate two-day moving average models to estimate specified PM10 effects at only lag0-1, with different adjustment methods for seasonality and time-trend
 
-S5. Simulation Figure in Main Text.R: Get Table 2 and Figure 3 in the main text.
+S5. Simulation Figures in Main Text.R: Get Table 2 and Figure 3 in the main text.
 
 ///Files description (Real-data analysis)
 
 These files provide example codes for real-data analysis including additional adjustment using multiple dummy variables. The codes were simplified for easier illustrations. Datasets for real-data analysis cannot be provided for public use.
 
-R1. Regression and figures.R: run city-specific distributed lag models with different adjustments, pool city-specific estimates using multivariate meta-analysis, and get figures.
+R1. Regression and Figures.R: run city-specific distributed lag models with different adjustments, pool city-specific estimates using multivariate meta-analysis, and get figures.
 
-R2. Additional adjustment.R: run city-specific distributed lag models with additional adjustment using multiple dummy variables.
+R2. Additional Adjustment.R: run city-specific distributed lag models with additional adjustment using multiple dummy variables.
 
 
 Questions or error reporting: honghyok.kim@yale.edu or honghyok@korea.ac.kr
